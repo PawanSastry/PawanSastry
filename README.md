@@ -44,7 +44,7 @@ Product strategy & roadmap · Build-vs-buy & investment cases · Cross-org prior
 Lead 3 direct reports; own strategy across Platform, Data & Analytics, Nurturing AI, and Mobile within Knock (~$75M ARR, 10,000+ property management companies).
 
 **Senior Product Manager · CBRE South Asia Ltd** *(Jan 2023 – Mar 2024)*  
-Automated software provisioning (~$600K saved/yr) and consolidated ServiceNow instances (~$440K saved/yr); shipped 180+ workflow building blocks.
+Automated software provisioning ($600K saved/yr) and consolidated ServiceNow instances ($440K saved/yr); shipped 180+ workflow building blocks.
 
 **Senior Product Manager · Dell Technologies** *(Apr 2022 – Jan 2023)*  
 Replaced fragmented per-region order workflows with one standardized model, cutting fulfilment cycle time 20%.
